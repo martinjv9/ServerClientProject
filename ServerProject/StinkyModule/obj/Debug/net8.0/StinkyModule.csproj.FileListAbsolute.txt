@@ -1,0 +1,29 @@
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.deps.json
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.dll
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.pdb
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.AssemblyInfoInputs.cache
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.AssemblyInfo.cs
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.csproj.CoreCompileInputs.cache
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.dll
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\refint\StinkyModule.dll
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.pdb
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\ref\StinkyModule.dll
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.runtimeconfig.json
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.genruntimeconfig.cache
+C:\Users\mj586808\source\repos\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.csproj.AssemblyReference.cache
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.deps.json
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.runtimeconfig.json
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.dll
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\bin\Debug\net8.0\StinkyModule.pdb
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.csproj.AssemblyReference.cache
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.AssemblyInfoInputs.cache
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.AssemblyInfo.cs
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.csproj.CoreCompileInputs.cache
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.sourcelink.json
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.dll
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\refint\StinkyModule.dll
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.pdb
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.genruntimeconfig.cache
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\ref\StinkyModule.dll
