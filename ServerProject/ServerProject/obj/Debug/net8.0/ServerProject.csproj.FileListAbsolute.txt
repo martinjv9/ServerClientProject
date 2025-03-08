@@ -309,3 +309,4 @@ C:\Users\mj586808\source\repos\CS584 Project\ServerProject\ServerProject\bin\Deb
 C:\Users\mj586808\source\repos\CS584 Project\ServerProject\ServerProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\mj586808\source\repos\CS584 Project\ServerProject\ServerProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\mj586808\source\repos\CS584 Project\ServerProject\ServerProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\ServerProject\bin\Debug\net8.0\CsvHelper.dll

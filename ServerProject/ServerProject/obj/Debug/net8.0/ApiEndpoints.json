@@ -129,6 +129,26 @@
     ]
   },
   {
+    "ContainingType": "ServerProject.Controllers.SeedController",
+    "Method": "ImportCitiesAsync",
+    "RelativePath": "api/Seed/Cities",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServerProject.Controllers.SeedController",
+    "Method": "ImportCountriesAsync",
+    "RelativePath": "api/Seed/Countries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ServerProject.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
