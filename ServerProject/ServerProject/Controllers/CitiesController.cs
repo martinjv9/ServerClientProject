@@ -20,7 +20,7 @@ namespace ServerProject.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<City>>> GetCities()
         {
-            return await _context.Cities.ToListAsync();
+            return await _context.Cities.Take(100).ToListAsync();
         }
 
         // GET: api/CitiesWithCountry
