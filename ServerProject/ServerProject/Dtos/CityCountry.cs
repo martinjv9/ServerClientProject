@@ -14,5 +14,7 @@ namespace ServerProject.Dtos
 
         public string CountryName { get; set; } = null!;
 
+        
+
     }
 }

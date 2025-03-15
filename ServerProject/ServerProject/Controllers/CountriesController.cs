@@ -45,20 +45,20 @@ namespace ServerProject.Controllers
         [HttpGet("GetPopulation/{id}")]
         public async Task<ActionResult<CountryPopulation>> GetCountryPopulation(int id)
         {
-            var country = await _context.Countries.FindAsync(id);
+            CountryPopulation country = await _context.Countries.Where(country => country.Id == id)
+                .Select(country =>
+                new CountryPopulation
+                {
+                    Id = country.Id,
+                    Name = country.Name,
+                    Iso2 = country.Iso2,
+                    Iso3 = country.Iso3,
+                    Population = country.Cities.Sum(c => c.Population),
+                    CityCount = country.Cities.Count()
+                }).SingleAsync();
+            return country;
 
-            if (country == null)
-            {
-                return NotFound();
-            }
-
-            return new CountryPopulation {
-                Id = country.Id,
-                Name = country.Name,
-                Iso2 = country.Iso2,
-                Iso3 = country.Iso3,
-                Population = country.Cities.Sum(c => c.Population)
-            };
+            
         }
 
         // PUT: api/Countries/5
