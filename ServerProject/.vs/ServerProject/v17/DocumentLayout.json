@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{49997D38-5FA1-444F-95D0-675DB80AB0FE}|StinkyModule\\StinkyModule.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\stinkymodule\\worldcitiessourcecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49997D38-5FA1-444F-95D0-675DB80AB0FE}|StinkyModule\\StinkyModule.csproj|solutionrelative:stinkymodule\\worldcitiessourcecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +32,35 @@
               "RelativeDocumentMoniker": "StinkyModule\\WorldCitiesSourceContext.cs",
               "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\StinkyModule\\WorldCitiesSourceContext.cs",
               "RelativeToolTip": "StinkyModule\\WorldCitiesSourceContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T23:44:53.657Z",
+              "WhenOpened": "2025-03-29T01:15:58.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Program.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Program.cs",
+              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Program.cs",
+              "RelativeToolTip": "ServerProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:45:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "ServerProject\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:18:39.466Z",
               "EditorCaption": ""
             }
           ]

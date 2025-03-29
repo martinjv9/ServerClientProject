@@ -24,6 +24,10 @@ public partial class WorldCitiesSourceContext : IdentityDbContext<WorldCitiesUse
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         // Connecting database
+        if (optionsBuilder.IsConfigured)
+        {
+            return;
+        }
         IConfigurationBuilder builder = new ConfigurationBuilder()
             .AddJsonFile("appsettings.json");
 
@@ -34,6 +38,7 @@ public partial class WorldCitiesSourceContext : IdentityDbContext<WorldCitiesUse
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<City>(entity =>
         {
             entity.HasOne(d => d.Country).WithMany(p => p.Cities)

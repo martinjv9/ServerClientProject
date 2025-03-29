@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using StinkyModule;
 
@@ -12,6 +13,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<WorldCitiesSourceContext>(options => 
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
+
+builder.Services.AddIdentity<WorldCitiesUser, IdentityRole>()
+    .AddEntityFrameworkStores<WorldCitiesSourceContext>();
 
 var app = builder.Build();
 

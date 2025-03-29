@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StinkyModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df532497a065edc9c2d86d2251750e71d008ad07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ca876c05d02090bb046762fa990fb453b921a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("StinkyModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StinkyModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
