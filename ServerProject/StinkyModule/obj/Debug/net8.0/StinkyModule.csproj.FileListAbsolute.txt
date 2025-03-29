@@ -27,3 +27,4 @@ C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debu
 C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.pdb
 C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\StinkyModule.genruntimeconfig.cache
 C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\obj\Debug\net8.0\ref\StinkyModule.dll
+C:\Users\mj586808\source\repos\CS584 Project\ServerProject\StinkyModule\bin\Debug\net8.0\appsettings.json

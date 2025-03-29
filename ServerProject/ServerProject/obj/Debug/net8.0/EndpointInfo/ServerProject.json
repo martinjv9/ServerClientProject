@@ -633,6 +633,10 @@
           "population": {
             "type": "integer",
             "format": "int32"
+          },
+          "cityCount": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
