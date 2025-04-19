@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\dtos\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\dtos\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|c:\\users\\mj586808\\source\\repos\\cs584 project\\serverproject\\serverproject\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCEC00-D9A4-4840-ACAA-42788538B250}|ServerProject\\ServerProject.csproj|solutionrelative:serverproject\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,71 +38,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ServerProject\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\appsettings.Development.json",
-              "RelativeToolTip": "ServerProject\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T00:28:20.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeedController.cs",
-              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\SeedController.cs",
-              "RelativeDocumentMoniker": "ServerProject\\Controllers\\SeedController.cs",
-              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\SeedController.cs",
-              "RelativeToolTip": "ServerProject\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T00:26:23.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginResult.cs",
-              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Dtos\\LoginResult.cs",
-              "RelativeDocumentMoniker": "ServerProject\\Dtos\\LoginResult.cs",
-              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Dtos\\LoginResult.cs",
-              "RelativeToolTip": "ServerProject\\Dtos\\LoginResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T00:20:57.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ServerProject\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\AdminController.cs",
               "RelativeToolTip": "ServerProject\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T23:55:05.039Z",
+              "WhenOpened": "2025-04-18T23:52:44.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JwtHandler.cs",
-              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\JwtHandler.cs",
-              "RelativeDocumentMoniker": "ServerProject\\JwtHandler.cs",
-              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\JwtHandler.cs",
-              "RelativeToolTip": "ServerProject\\JwtHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoginResult.cs",
+              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Dtos\\LoginResult.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Dtos\\LoginResult.cs",
+              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Dtos\\LoginResult.cs",
+              "RelativeToolTip": "ServerProject\\Dtos\\LoginResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T23:38:39.938Z",
+              "WhenOpened": "2025-04-18T23:49:55.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Dtos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Dtos\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Dtos\\LoginRequest.cs",
+              "RelativeToolTip": "ServerProject\\Dtos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:49:51.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "ServerProject\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:53:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "ServerProject\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "ServerProject\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:51:09.188Z",
               "EditorCaption": ""
             },
             {
@@ -109,14 +117,23 @@
               "RelativeDocumentMoniker": "ServerProject\\Program.cs",
               "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\Program.cs",
               "RelativeToolTip": "ServerProject\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T23:00:30.054Z",
+              "WhenOpened": "2025-04-18T22:49:17.338Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\JwtHandler.cs",
+              "RelativeDocumentMoniker": "ServerProject\\JwtHandler.cs",
+              "ToolTip": "C:\\Users\\mj586808\\source\\repos\\CS584 Project\\ServerProject\\ServerProject\\JwtHandler.cs",
+              "RelativeToolTip": "ServerProject\\JwtHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:49:16.278Z",
+              "EditorCaption": ""
             }
           ]
         }

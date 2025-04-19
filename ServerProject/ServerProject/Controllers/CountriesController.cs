@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +30,7 @@ namespace ServerProject.Controllers
         }
 
         // GET: api/Countries/5
+        [Authorize]
         [HttpGet("{id}")]
         public async Task<ActionResult<Country>> GetCountry(int id)
         {
@@ -42,6 +44,7 @@ namespace ServerProject.Controllers
             return country;
         }
 
+        [Authorize]
         [HttpGet("GetPopulation/{id}")]
         public async Task<ActionResult<CountryPopulation>> GetCountryPopulation(int id)
         {
